@@ -116,7 +116,7 @@
   "workbench.editor.empty.hint": "hidden",
   "update.showReleaseNotes": false,
   "security.promptForLocalFileProtocolHandling": false,
-  "workbench.activityBar.location": "hidden",
+  // "workbench.activityBar.location": "hidden",
   "apc.activityBar": {
     "position": "bottom",
     "hideSettings": true,
@@ -225,6 +225,7 @@
     "Usuario",
     "WEBPUSH"
   ],
-  "workbench.colorTheme": "Min Dark",
-  "workbench.statusBar.visible": false
+  "workbench.statusBar.visible": false,
+  "nxConsole.showNodeVersionOnStartup": false,
+  "workbench.colorTheme": "Monokai Classic"
 }
